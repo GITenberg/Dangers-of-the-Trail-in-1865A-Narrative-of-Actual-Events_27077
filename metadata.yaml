@@ -1,0 +1,33 @@
+_repo: Dangers-of-the-Trail-in-1865A-Narrative-of-Actual-Events_27077
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Patterson, H. DeF.
+    gutenberg_agent_id: '32445'
+    url: http://www.gutenberg.org/2009/agents/32445
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Young, Charles E. (Charles Edward)
+    alias: Young, Charles Edward
+    birthdate: 1846
+    gutenberg_agent_id: '32444'
+    url: http://www.gutenberg.org/2009/agents/32444
+description: ''
+gutenberg_issued: '2008-10-28'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '27077'
+  lccn: '12018533'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Colorado -- Description and travel'
+- !lcc 'F590.3'
+- !lcsh 'West (U.S.) -- Description and travel'
+title: 'Dangers of the Trail in 1865: A Narrative of Actual Events'
+url: http://www.gutenberg.org/ebooks/27077
